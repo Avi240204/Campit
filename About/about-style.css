@@ -154,7 +154,7 @@ button:hover {
 	overflow: hidden;
 	transition: transform 0.2s, box-shadow 0.2s;
 	width: 18rem;
-	height: 25rem;
+	height: 21rem;
 	margin-top: 10px;
 }
 
@@ -165,14 +165,14 @@ button:hover {
 
 .card-img {
 	width: 18rem;
-	height: 12rem;
+	height: 11rem;
 }
 
 .card-img img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 57%;
+	width: 50%;
 	/* You can adjust this value to suit your needs */
 	height: auto;
 	border-radius: 10px;
@@ -184,8 +184,8 @@ button:hover {
 }
 
 .card-name {
-	font-size: 2rem;
-	margin: 10px 0;
+	font-size:large;
+	margin: 5px 0;
 }
 
 .card-role {

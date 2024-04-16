@@ -9,14 +9,14 @@ body{
 }
 .container {
     position: relative;
-    width: 100%;
+    width: 80%;
     max-width: 500px;
 }
 
 .hiper {
     padding-left: 10%;
     font-weight: bold;
-    font-size: larger;
+    font-size:medium;
 
 }
 
@@ -65,9 +65,9 @@ header {
 }
 
 nav {
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
 	margin: 5px auto;
 	padding: 0 20px;
 }
